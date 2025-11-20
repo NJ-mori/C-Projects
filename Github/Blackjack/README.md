@@ -19,5 +19,5 @@ Status - Finished
 
             if the dealer already has 21 points from the start the player lose instantly.
 
-        - Show the result of the game.
+        - show the result of the game.
     
